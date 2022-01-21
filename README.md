@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @22aam
+- 👋 Hi, I’m @ bob
 - 👀football and coding
 - 🌱 html,java, css
 - 💞️ on my code i am working on
