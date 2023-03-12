@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  bob
 - 👀football and coding
-- 🌱 html,java, css,rudy
+- 🌱 html,java, css
 - 💞️ on my code i am working on
 - 📫 in github
 
